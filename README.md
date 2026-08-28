@@ -2,7 +2,7 @@
 
 **Software engineer · CS @ Arizona State University · Full-stack + ML/AI**
 
-I like building software that real people actually use — from a production online-ordering platform for a local restaurant to LLM agents and sports prediction models. I care about shipping complete products: clean architecture, tests, CI, and deployment, not just code that runs on my machine.
+I like building software that real people actually use.
 
 📫 **ayadav75@asu.edu** · 💼 Open to software engineering & ML roles
 
@@ -44,4 +44,4 @@ I like building software that real people actually use — from a production onl
 
 ---
 
-💡 *Also on my machine: a zero-JavaScript therapy-practice website built with Astro + Tailwind (performance-first static design), and way too many NeetCode solutions ([receipts here](https://github.com/ayadav75/neetcode-submissions)).*
+💡 *Also on my machine: a zero-JavaScript therapy-practice website built with Astro + Tailwind (performance-first static design), and way too *few* NeetCode solutions ([receipts here](https://github.com/ayadav75/neetcode-submissions)).*
